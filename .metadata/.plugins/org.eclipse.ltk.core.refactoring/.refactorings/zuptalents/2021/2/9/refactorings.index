@@ -1,0 +1,13 @@
+1614390109984	Encapsulate field 'data'
+1614391167620	Encapsulate field 'email'
+1614391236501	Encapsulate field 'cpf'
+1614394363275	Delete element
+1614395567899	Delete element
+1614396023252	Delete element
+1614431900587	Rename package 'com.zuptalents.desafio.model'
+1614431951406	Rename package 'com.zuptalents.desafio.controller'
+1614432622907	Rename package 'com.zuptalents.desafio.domain'
+1614432697233	Rename package 'com.zuptalents.desafio.resources'
+1614432782435	Rename package 'com.zuptalents.desafio.domainmhhh'
+1614434778270	Rename type 'UsuarioController'
+1614447669083	Delete element
